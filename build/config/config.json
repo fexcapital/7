@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x36cBC94b2A94b2162139405059D22d7FEC581CB0",
+  "SCAN_LINK": "https://etherscan.io/0x36cBC94b2A94b2162139405059D22d7FEC581CB0",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Bear Dead",
+  "SYMBOL": "BD",
+  "MAX_SUPPLY": 1500,
+  "WEI_COST": 100000000000000000,
+  "DISPLAY_COST": 0.10000000,
+  "GAS_LIMIT": 140000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/bear-dead",
+  "SHOW_BACKGROUND": true
+}
